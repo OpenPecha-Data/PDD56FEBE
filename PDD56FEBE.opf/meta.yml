@@ -1,0 +1,35 @@
+id: PDD56FEBE
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13312
+  instance_id: http://purl.bdrc.io/resource/IE3JT13312
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - དབུ་མ་འཇུག་པའི་རྩ་བ་དང་དེའི་རྣམ་བཤད།
+  alt_title:
+    bo:
+    - དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དཔལ་ལྡན་དུས་གསུམ་མཁྱེན་པའི་ཞལ་ལུང་དང་དེའི་རྩ་བ།
+  author: http://purl.bdrc.io/resource/P5782
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    112d493e5b1543f3b8e8fbce824565ac:
+      title: རྒྱ་གར་སྐད་དུ།མ་དྷྱ་མ་ཀ་ཨ་བ་ཏཱ་ར་ནཱ་མ།བོད་སྐད་དུ།དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ།འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ།་།ཉན་ཐོས་སངས་རྒྱས
+      volume_number: 2
+      base_file: UT3JT13312_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL85099E065EB3D694
+      image_group: null
+      quality: null
+    3bb7374eddcc49bc9f9ccf993a2735e7:
+      title: ༄༅།་།དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དཔལ་ལྡན་དུས་གསུམ་མཁྱེན་པའི་ཞལ་ལུང་དྭགས་བརྒྱུད་གྲུབ་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13312_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD59E86C01442954A
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:20:08.787503'
+last_modified_at: '2021-12-22T11:20:08.787510'
